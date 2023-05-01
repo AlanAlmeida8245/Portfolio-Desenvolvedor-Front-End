@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Maximum';
+  src: url('./assets/MaximumImpact.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Kinect';
+  src: url('./assets/Kinect.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SinkSans';
+  src: url('./assets/SinkinSans.otf') format('truetype');
+}
+
+
