@@ -41,6 +41,7 @@ import Contador from "../Projects/Contador"
 import Cart from "../Icones/Cart.png"
 import Design from "../Icones/design.png"
 import Option from "../Icones/pageoption.png"
+import CineRealm from "../Projects/CineRealm"
 
 function Home(){
 
@@ -206,6 +207,7 @@ function Home(){
  
                           <div className="w-full mx-auto flex justify-center text-center relative z-10 m-5 p-5 gap-5 flex-wrap" data-aos="fade-right">
                                 
+                                <CineRealm />
                                 <Costs />
                                <GithubFinder />
                                <Conversor />
