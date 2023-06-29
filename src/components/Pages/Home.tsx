@@ -42,6 +42,7 @@ import Cart from "../Icones/Cart.png"
 import Design from "../Icones/design.png"
 import Option from "../Icones/pageoption.png"
 import CineRealm from "../Projects/CineRealm"
+import SnackLanches from "../Projects/SnackLanches"
 
 function Home(){
 
@@ -207,6 +208,7 @@ function Home(){
  
                           <div className="w-full mx-auto flex justify-center text-center relative z-10 m-5 p-5 gap-5 flex-wrap" data-aos="fade-right">
                                 
+                                <SnackLanches />
                                 <CineRealm />
                                 <Costs />
                                <GithubFinder />
