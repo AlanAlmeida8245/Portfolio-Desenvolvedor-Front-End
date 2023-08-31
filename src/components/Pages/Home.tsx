@@ -43,6 +43,7 @@ import Design from "../Icones/design.png"
 import Option from "../Icones/pageoption.png"
 import CineRealm from "../Projects/CineRealm"
 import SnackLanches from "../Projects/SnackLanches"
+import MyNotes from "../Projects/MyNotes"
 
 function Home(){
 
@@ -211,6 +212,7 @@ function Home(){
                                 <SnackLanches />
                                 <CineRealm />
                                 <Costs />
+                                <MyNotes/>
                                <GithubFinder />
                                <Conversor />
                                <Contador />
