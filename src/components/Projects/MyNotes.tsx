@@ -1,5 +1,5 @@
 
-import Image from "./mynotes.png"
+import Image from "./mynotes.jpeg"
 import {BsGithub} from "react-icons/bs"
 import {FaRegEye} from "react-icons/fa"
 
