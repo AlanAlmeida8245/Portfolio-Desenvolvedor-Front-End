@@ -44,7 +44,8 @@ import Option from "../Icones/pageoption.png"
 import CineRealm from "../Projects/CineRealm"
 import SnackLanches from "../Projects/SnackLanches"
 import MyNotes from "../Projects/MyNotes"
-
+import CloneMercadoLivre from "../Projects/Clone-MercadoLivre"
+ 
 function Home(){
 
         AOS.init({
@@ -209,6 +210,7 @@ function Home(){
  
                           <div className="w-full mx-auto flex justify-center text-center relative z-10 m-5 p-5 gap-5 flex-wrap" data-aos="fade-right">
                                 
+                                <CloneMercadoLivre/>
                                 <SnackLanches />
                                 <CineRealm />
                                 <Costs />
