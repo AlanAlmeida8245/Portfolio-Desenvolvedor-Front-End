@@ -1,5 +1,5 @@
 
-import Image from "./CineRealm.png"
+import Image from "./CineRealm-2.png"
 import {BsGithub} from "react-icons/bs"
 import {FaRegEye} from "react-icons/fa"
 
@@ -16,7 +16,7 @@ function CineRealm()
         </div>
         <div className="space-x-5">
           <a href="https://github.com/AlanAlmeida8245/RealmCine" target="_blank"><button><BsGithub className="w-8 h-8" /></button></a>
-          <a href="https://realm-cine.vercel.app/" target="_blank"><button><FaRegEye className="w-8 h-8" /></button></a>
+          <a href="https://realm-cine-new.vercel.app" target="_blank"><button><FaRegEye className="w-8 h-8" /></button></a>
         </div>
         <div className="px-6 pt-4 pb-2">
             <span className="inline-block bg-blue-400 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#ReactJS</span>
